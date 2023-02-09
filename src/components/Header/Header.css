@@ -1,0 +1,22 @@
+.Header-area .navbar-nav a {
+  margin-left: 15px;
+}
+.Header-area .navbar-nav a:last-child {
+  background-color: #7952b3;
+  color: #ffff;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  min-width: 120px;
+  border: 1px solid #7952b3;
+  /* transition: 0.3s; */
+}
+.Header-area .navbar-nav a:last-child:hover {
+  background-color: transparent;
+  border: 1px solid #7952b3;
+}

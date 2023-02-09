@@ -1,0 +1,12 @@
+.Gallary-area h2 {
+  font-size: 32px;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 60px;
+}
+
+@media (max-width: 991px) {
+  .Gallary-area h2 {
+    font-size: 32px;
+  }
+}
