@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-JS-By-Building-Projects/static/css/main.06aca0e2.css",
+    "main.js": "/React-JS-By-Building-Projects/static/js/main.ce61bef8.js",
+    "static/js/787.a8fa981a.chunk.js": "/React-JS-By-Building-Projects/static/js/787.a8fa981a.chunk.js",
+    "static/media/Banner3.jpg": "/React-JS-By-Building-Projects/static/media/Banner3.7e32f82128d8eae0bc2f.jpg",
+    "static/media/Banner2.jpg": "/React-JS-By-Building-Projects/static/media/Banner2.c77e44d84a3fa5ea807c.jpg",
+    "static/media/Banner1.jpg": "/React-JS-By-Building-Projects/static/media/Banner1.6590edc4a5fa74a0ca17.jpg",
+    "static/media/service-two.jpg": "/React-JS-By-Building-Projects/static/media/service-two.34238d0ca76a264da0a7.jpg",
+    "static/media/gallery-nine.jpg": "/React-JS-By-Building-Projects/static/media/gallery-nine.b19747b9570ea6e5974d.jpg",
+    "static/media/service-three.jpg": "/React-JS-By-Building-Projects/static/media/service-three.8d5f2cea5c6f51a3f201.jpg",
+    "static/media/gallery-two.jpg": "/React-JS-By-Building-Projects/static/media/gallery-two.b070a11306fd58542eeb.jpg",
+    "static/media/service-one.jpg": "/React-JS-By-Building-Projects/static/media/service-one.021eb5559fa4356ce8c8.jpg",
+    "static/media/gallery-seven.jpg": "/React-JS-By-Building-Projects/static/media/gallery-seven.45de8269b60cba6badd6.jpg",
+    "static/media/gallery-one.jpg": "/React-JS-By-Building-Projects/static/media/gallery-one.26c46f493a3a2d256267.jpg",
+    "static/media/gallery-five.jpg": "/React-JS-By-Building-Projects/static/media/gallery-five.4023fe3b67458b48bb1d.jpg",
+    "static/media/gallery-four.jpg": "/React-JS-By-Building-Projects/static/media/gallery-four.8990e77df3a5341d3241.jpg",
+    "static/media/gallery-three.jpg": "/React-JS-By-Building-Projects/static/media/gallery-three.0c86d14188690d9355bc.jpg",
+    "static/media/gallery-ten.jpg": "/React-JS-By-Building-Projects/static/media/gallery-ten.976d9abc37f6271a46cb.jpg",
+    "index.html": "/React-JS-By-Building-Projects/index.html",
+    "main.06aca0e2.css.map": "/React-JS-By-Building-Projects/static/css/main.06aca0e2.css.map",
+    "main.ce61bef8.js.map": "/React-JS-By-Building-Projects/static/js/main.ce61bef8.js.map",
+    "787.a8fa981a.chunk.js.map": "/React-JS-By-Building-Projects/static/js/787.a8fa981a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06aca0e2.css",
+    "static/js/main.ce61bef8.js"
+  ]
+}
